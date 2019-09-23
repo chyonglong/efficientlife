@@ -51,3 +51,7 @@ https://github.com/dyc87112/online-markdown
 
 微信公众号排版编辑器（开源）
 https://github.com/lyricat/wechat-format
+
+
+#### 欢迎关注效能人生，了解更多效能工具。
+![](https://github.com/chyonglong/efficientlife/blob/master/images/tailer.png?raw=true

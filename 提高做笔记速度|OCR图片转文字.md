@@ -49,3 +49,6 @@ https://www.onlineocr.net/zh_hans/
 ![](images/2019-09-16-15-26-00.png)
 
 ![](images/2019-09-16-15-26-17.png)
+
+#### 欢迎关注效能人生，了解更多效能工具。
+![](https://github.com/chyonglong/efficientlife/blob/master/images/tailer.png?raw=true

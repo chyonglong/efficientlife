@@ -52,3 +52,7 @@
 希望量级这个概念能让你在思维方式上开阔眼界。
 
 最后，**重要的话要重复，成就＝成功率 x 事情的量级 x 做事的速度。同时改变公式中的三个变量是很难的，更好的做法是一次提高一个，滚动前进。**
+
+
+#### 欢迎关注效能人生，了解更多效能工具。
+![](https://github.com/chyonglong/efficientlife/blob/master/images/tailer.png?raw=true
